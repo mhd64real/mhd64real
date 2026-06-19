@@ -10,6 +10,7 @@ uglyURLs = true
 
 [params]
   description = 'A simple base theme, ready to be shaped.'
+  footerText = '<a href="https://github.com/mhd64real/mhd64real">Source code</a> &middot; <a href="https://github.com/mhd64real/mhd64real/blob/main/LICENSE">MIT Licensed</a>'
 
   [params.profile]
     name = 'Mohamed Elsayed'
