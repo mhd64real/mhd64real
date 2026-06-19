@@ -28,6 +28,9 @@ enableRobotsTXT = true
     [[params.profile.links]]
       text = 'github/mhd64real'
       url = 'https://github.com/mhd64real'
+    [[params.profile.links]]
+      text = 'linkedin/mhd64'
+      url = 'https://www.linkedin.com/in/mhd64'
 
 [menu]
   [[menu.main]]
