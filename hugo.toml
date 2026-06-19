@@ -1,0 +1,45 @@
+baseURL = 'https://devlix.org/'
+locale = 'en-us'
+title = 'mhd64'
+theme = 'devlix'
+uglyURLs = true
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+
+[params]
+  description = 'A simple base theme, ready to be shaped.'
+
+  [params.profile]
+    name = 'Mohamed Elsayed'
+    photo = '/img/profile.jpg'
+    roles = ['Systems Developer', 'Still a hobbyist']
+    email = 'me@mhd64.dev'
+
+    [[params.profile.links]]
+      text = 'github/mhd64real'
+      url = 'https://github.com/mhd64real'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/index.html'
+    weight = 10
+  [[menu.main]]
+    name = 'Blog'
+    url = '/blog/'
+    weight = 20
+
+[markup]
+  [markup.highlight]
+    style = 'monokai'
+    noClasses = true
+    lineNos = false
+    tabWidth = 2
+    guessSyntax = true
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3

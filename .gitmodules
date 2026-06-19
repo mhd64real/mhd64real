@@ -1,0 +1,3 @@
+[submodule "themes/devlix"]
+	path = themes/devlix
+	url = https://github.com/mhd64real/hugo-theme-devlix.git
