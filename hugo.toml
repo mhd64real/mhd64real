@@ -21,8 +21,10 @@ enableRobotsTXT = true
     name = 'Mohamed Elsayed'
     photo = '/img/cd.png'
     roles = ['Systems Developer', 'Still a hobbyist']
-    email = 'me@mhd64.dev'
 
+    [[params.profile.links]]
+      text = 'me@mhd64.dev'
+      url = 'mailto:me@mhd64.dev'
     [[params.profile.links]]
       text = 'github/mhd64real'
       url = 'https://github.com/mhd64real'
