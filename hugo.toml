@@ -1,20 +1,25 @@
 baseURL = 'https://mhd64.dev/'
 locale = 'en-us'
+languageCode = 'en-us'
 title = 'mhd64'
 theme = 'devlix'
 uglyURLs = true
+enableRobotsTXT = true
 
 [outputs]
   home = ['html', 'rss']
   section = ['html', 'rss']
 
 [params]
-  description = 'A simple base theme, ready to be shaped.'
+  description = 'Mohamed Elsayed (mhd64), systems developer. Notes and projects on software, systems, and tinkering.'
   footerText = '<a href="https://github.com/mhd64real/mhd64real">Source code</a> &middot; <a href="https://github.com/mhd64real/mhd64real/blob/main/LICENSE">MIT Licensed</a>'
+  photoRatio = '1 / 1'
+  author = 'Mohamed Elsayed'
+  defaultImage = '/img/cd.png'
 
   [params.profile]
     name = 'Mohamed Elsayed'
-    photo = '/img/profile.jpg'
+    photo = '/img/cd.png'
     roles = ['Systems Developer', 'Still a hobbyist']
     email = 'me@mhd64.dev'
 

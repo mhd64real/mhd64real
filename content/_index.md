@@ -4,7 +4,7 @@ title: "Home"
 
 # Hi, I'm Mohamed
 
-_Write your introduction here._ A few sentences about who you are, what you build, and what this site is for. No post list on this page, that lives on [Blog](/blog/).
+I'm a systems developer. This is my corner of the web, where I write about software, systems, and the things I build for fun. Posts live on the [Blog](/blog/).
 
 {{< terminal >}}
 $ whoami
