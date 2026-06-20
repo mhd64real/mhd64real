@@ -5,6 +5,7 @@ title = 'mhd64'
 theme = 'devlix'
 uglyURLs = true
 enableRobotsTXT = true
+disableKinds = ['taxonomy', 'term']
 
 [outputs]
   home = ['html', 'rss']
