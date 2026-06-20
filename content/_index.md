@@ -20,4 +20,5 @@ Mohamed Elsayed
 
 $ groups
 sudo low-level devops systems
+
 {{< /terminal >}}
