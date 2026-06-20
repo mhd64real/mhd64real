@@ -38,6 +38,7 @@ enableRobotsTXT = true
     category = 'General'
     categoryId = 'DIC_kwDOS_R_As4C_hbl'
     mapping = 'pathname'
+    discussionUrl = 'https://github.com/mhd64real/mhd64real/discussions/1'
 
 [menu]
   [[menu.main]]
