@@ -20,7 +20,7 @@ enableRobotsTXT = true
   [params.profile]
     name = 'Mohamed Elsayed'
     photo = '/img/cd.png'
-    roles = ['Systems Developer', 'Still a hobbyist']
+    roles = ['Tech hobbyist', 'Based in Sharjah, UAE']
 
     [[params.profile.links]]
       text = 'me@mhd64.dev'
