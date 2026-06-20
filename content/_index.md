@@ -4,7 +4,11 @@ title: "Home"
 
 # Hi, I'm Mohamed
 
-I'm a systems developer. This is my corner of the web, where I write about software, systems, and the things I build for fun. Posts live on the [Blog](/blog/).
+I'm hoping to reach the point where I can call myself a systems developer.
+
+This is my website/blog. I write about software, systems, and things I build for fun.
+
+I have been an intern at [Enjab Medical Center] since February 2026. I develop automation systems and work on infrastructure projects there.
 
 {{< terminal >}}
 $ whoami

@@ -32,6 +32,13 @@ enableRobotsTXT = true
       text = 'linkedin/mhd64'
       url = 'https://www.linkedin.com/in/mhd64'
 
+  [params.giscus]
+    repo = 'mhd64real/mhd64real'
+    repoId = 'R_kgDOS_R_Ag'
+    category = 'General'
+    categoryId = 'DIC_kwDOS_R_As4C_hbl'
+    mapping = 'pathname'
+
 [menu]
   [[menu.main]]
     name = 'Home'
@@ -41,6 +48,10 @@ enableRobotsTXT = true
     name = 'Blog'
     url = '/blog/'
     weight = 20
+  [[menu.main]]
+    name = 'Guestbook'
+    url = '/guestbook.html'
+    weight = 30
 
 [markup]
   [markup.highlight]
