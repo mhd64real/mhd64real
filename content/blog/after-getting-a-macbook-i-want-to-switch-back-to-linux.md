@@ -1,5 +1,5 @@
 ---
-title: "After Getting a Macbook I Want to Switch to Linux Again"
+title: "After Getting a Macbook I Want to Switch Back to Linux"
 date: 2026-06-22T00:18:28+04:00
 draft: false
 description: "I switched from a riced-out Arch + DWM setup to a MacBook. It's stable, fast, and reliable. I miss Linux anyway."
