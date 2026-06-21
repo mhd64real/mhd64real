@@ -16,6 +16,7 @@ disableKinds = ['taxonomy', 'term']
   footerText = '<a href="https://github.com/mhd64real/mhd64real">Source code</a> &middot; <a href="https://github.com/mhd64real/mhd64real/blob/main/LICENSE">MIT Licensed</a>'
   photoRatio = '1 / 1'
   author = 'Mohamed Elsayed'
+  tagline = 'Mohamed Elsayed, systems developer'
   defaultImage = '/img/cd.png'
 
   [params.profile]
