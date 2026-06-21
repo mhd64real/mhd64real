@@ -14,7 +14,7 @@ I've been an intern at [Enjab Medical Center](https://enjab.ae) since February 2
 
 ### Latest posts
 
-Nothing published yet, but the ink is drying. Check back soon.
+- [After Getting a Macbook I Want to Switch to Linux Again](https://mhd64.dev/blog/after-getting-a-macbook-i-want-to-switch-to-linux-again.html) <sub>(22/06/2026)</sub>
 
 ---
 
