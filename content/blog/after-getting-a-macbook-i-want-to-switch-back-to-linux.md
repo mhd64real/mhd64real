@@ -27,7 +27,7 @@ I looked at ThinkPads.
  - Wow! Linux is so great on those!
  - Wow, they are so upgradable!
 
-But battery life was not so "wow" on those. The same could be said for the display and build quality. (Not all)
+But the battery life on the models I was considering didn't really wow me, and the same went for the display and build quality on some of them.
 
 Same for [system76](https://system76.com).
 
