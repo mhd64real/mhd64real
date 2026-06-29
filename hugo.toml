@@ -18,6 +18,7 @@ disableKinds = ['taxonomy', 'term']
   author = 'Mohamed Elsayed'
   tagline = 'Mohamed Elsayed, systems developer'
   defaultImage = '/img/cd.png'
+  customCursor = true        # Plan 9 style arrow cursor
 
   [params.profile]
     name = 'Mohamed Elsayed'
