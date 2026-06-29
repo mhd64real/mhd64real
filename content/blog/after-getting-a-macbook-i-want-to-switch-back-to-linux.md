@@ -13,9 +13,9 @@ This is how I got here, and why I think comfort can be bad.
 Before I got a MacBook, I had a crusty old Asus laptop. Windows 11 was too much work for it, so I decided that Linux was a good choice. Since then I got stuck in the Linux rabbit hole. I tried every window manager, every desktop environment. I riced window managers here and there, and nothing felt right, except DWM. I just loved it. The simplicity, the stability. It's written in C. It's minimal. And it just clicked. So I decided that this would be [my setup](https://github.com/mhd64real/devlix-wm).
 
 <div style="display:flex;gap:6px;margin:1.5rem 0;flex-wrap:wrap;">
-  <img src="/img/after-getting-a-macbook-i-want-to-switch-back-to-linux/devlix-wm-scrot1.png" alt="devlix-wm screenshot 1" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;border-radius:4px;" />
-  <img src="/img/after-getting-a-macbook-i-want-to-switch-back-to-linux/devlix-wm-scrot2.png" alt="devlix-wm screenshot 2" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;border-radius:4px;" />
-  <img src="/img/after-getting-a-macbook-i-want-to-switch-back-to-linux/devlix-wm-scrot3.png" alt="devlix-wm screenshot 3" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;border-radius:4px;" />
+  <img src="/img/after-getting-a-macbook-i-want-to-switch-back-to-linux/devlix-wm-scrot1.png" alt="devlix-wm screenshot 1" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;" />
+  <img src="/img/after-getting-a-macbook-i-want-to-switch-back-to-linux/devlix-wm-scrot2.png" alt="devlix-wm screenshot 2" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;" />
+  <img src="/img/after-getting-a-macbook-i-want-to-switch-back-to-linux/devlix-wm-scrot3.png" alt="devlix-wm screenshot 3" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;" />
 </div>
 
 Eventually I published [my dotfiles](https://github.com/mhd64real/devlix-wm) with an installer, hoping someone could use it and thank me.
