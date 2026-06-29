@@ -3,7 +3,7 @@ title: "After Getting a Macbook I Want to Switch Back to Linux"
 date: 2026-06-22T00:18:28+04:00
 draft: false
 description: "I switched from a riced-out Arch + DWM setup to a MacBook. It's stable, fast, and reliable. I miss Linux anyway."
-image: "/img/mac-linux-side-by-side.png"
+image: "/img/after-getting-a-macbook-i-want-to-switch-back-to-linux/mac-linux-side-by-side.png"
 ---
 
 I switched from a riced out Arch + DWM setup to a MacBook. It's stable, fast, and reliable. But I miss Linux anyway.
@@ -13,9 +13,9 @@ This is how I got here, and why I think comfort can be bad.
 Before I got a MacBook, I had a crusty old Asus laptop. Windows 11 was too much work for it, so I decided that Linux was a good choice. Since then I got stuck in the Linux rabbit hole. I tried every window manager, every desktop environment. I riced window managers here and there, and nothing felt right, except DWM. I just loved it. The simplicity, the stability. It's written in C. It's minimal. And it just clicked. So I decided that this would be [my setup](https://github.com/mhd64real/devlix-wm).
 
 <div style="display:flex;gap:6px;margin:1.5rem 0;flex-wrap:wrap;">
-  <img src="/img/devlix-wm-scrot1.png" alt="devlix-wm screenshot 1" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;border-radius:4px;" />
-  <img src="/img/devlix-wm-scrot2.png" alt="devlix-wm screenshot 2" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;border-radius:4px;" />
-  <img src="/img/devlix-wm-scrot3.png" alt="devlix-wm screenshot 3" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;border-radius:4px;" />
+  <img src="/img/after-getting-a-macbook-i-want-to-switch-back-to-linux/devlix-wm-scrot1.png" alt="devlix-wm screenshot 1" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;border-radius:4px;" />
+  <img src="/img/after-getting-a-macbook-i-want-to-switch-back-to-linux/devlix-wm-scrot2.png" alt="devlix-wm screenshot 2" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;border-radius:4px;" />
+  <img src="/img/after-getting-a-macbook-i-want-to-switch-back-to-linux/devlix-wm-scrot3.png" alt="devlix-wm screenshot 3" loading="lazy" style="flex:1 1 0;min-width:0;width:0;height:auto;border-radius:4px;" />
 </div>
 
 Eventually I published [my dotfiles](https://github.com/mhd64real/devlix-wm) with an installer, hoping someone could use it and thank me.
@@ -63,7 +63,7 @@ And yeah, I know about yabai and AeroSpace. I tried them. You can tile windows o
 Sometimes you don't realize it: comfort can be bad. Sometimes joy comes from friction, from the things you learn along the way and the experiences you live through. In the end nothing is black or white. Macs have their strengths, which I've definitely seen and benefited from at work, but sometimes your heart drifts back to something you were connected to. I miss the Arch days.
 I have to get myself some pain. I'm still figuring out how.
 
-{{< figure src="/img/finder-peeking-backrooms.png" caption="Finder is watching." alt="Finder peeking in the backrooms." width="60%" >}}
+{{< figure src="/img/after-getting-a-macbook-i-want-to-switch-back-to-linux/finder-peeking-backrooms.png" caption="Finder is watching." alt="Finder peeking in the backrooms." width="60%" >}}
 
 > Please send me a free ThinkPad \
 > \- Me
