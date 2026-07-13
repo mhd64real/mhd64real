@@ -35,8 +35,8 @@ Here is a tip. Instead of searching for something like "Cisco 2901 Firmware Down
 
 Actually, let me do you a favor, here are some links:
 
-- [Latest for the 3850](https://cdn.technet24.ir/Downloads/Cisco/IOS/)
-- [Latest for the 2901](https://vofr.net/things/sw/)
+<p><img src="/img/folder-cd.png" alt="" style="display:inline;width:1.5em;height:auto;margin:0 0.45em 0 0;border:none;vertical-align:middle;"><a href="https://cdn.technet24.ir/Downloads/Cisco/IOS/">Latest for the 3850</a></p>
+<p><img src="/img/folder-cd.png" alt="" style="display:inline;width:1.5em;height:auto;margin:0 0.45em 0 0;border:none;vertical-align:middle;"><a href="https://vofr.net/things/sw/">Latest for the 2901</a></p>
 
 And if those ever stop working, you will find them here: [server.mhd64.dev](https://server.mhd64.dev).
 
@@ -48,7 +48,7 @@ And oh man, is that thing loud. This is enterprise gear, it was built to live in
 
 The clip below is just the 3850 and the 2901 booting. No Optiplex, no other fans, just the two Cisco boxes. Turn your volume down before you play it.
 
-<video controls preload="metadata" style="display:block;max-width:100%;margin:1.5rem auto;border:1px solid var(--border);">
+<video controls preload="metadata">
   <source src="/img/i-made-a-lab-to-understand-how-networks-really-work/bootup-sound.mp4" type="video/mp4">
   Your browser can't play this clip. <a href="/img/i-made-a-lab-to-understand-how-networks-really-work/bootup-sound.mp4">Download it here</a>.
 </video>
