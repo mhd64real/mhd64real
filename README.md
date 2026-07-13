@@ -14,6 +14,7 @@ I've been an intern at [Enjab Medical Center](https://enjab.ae) since February 2
 
 ### Latest posts
 
+- [I Made a Lab to Understand How Networks Really Work](https://mhd64.dev/blog/i-made-a-lab-to-understand-how-networks-really-work.html) <sub>(08/07/2026)</sub>
 - [After Getting a Macbook I Want to Switch Back to Linux](https://mhd64.dev/blog/after-getting-a-macbook-i-want-to-switch-back-to-linux.html) <sub>(22/06/2026)</sub>
 
 ---
