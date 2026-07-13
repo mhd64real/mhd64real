@@ -44,9 +44,9 @@ And if those ever stop working, you will find them here: [server.mhd64.dev](http
 
 # The Noise
 
-And oh man, is that thing loud. This is enterprise gear, it was built to live in a datacenter with its own air conditioning, not on a shelf in my room. On boot the fans spin up like a jet taking off. It does calm down after 3 or 4 minutes, once the boot is done and it settles into idle, still hearable, but not annoying. And honestly, server noise is like music to my ears.
+And oh man, is that thing loud. This is enterprise gear, it was built to live in a datacenter with its own air conditioning, not on a desk in my room. On boot the fans spin up like a jet taking off. It does calm down after 3 or 4 minutes, once the boot is done and it settles into idle, still hearable, but not annoying. And honestly, server noise is like music to my ears.
 
-The clip below is just the 3850 and the 2901 booting. No Optiplex, no other fans, just the two Cisco boxes. Turn your volume down before you play it.
+The clip below is just the 3850 booting. No 2901 or an Optiplex, no other fans, just the switch. (Ignore Background Noise)
 
 <video controls preload="metadata">
   <source src="/img/i-made-a-lab-to-understand-how-networks-really-work/bootup-sound.mp4" type="video/mp4">
