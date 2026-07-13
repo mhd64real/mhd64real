@@ -29,6 +29,17 @@ I know that, but I figured it won't be a problem for me. The CLI of both operati
 Both of these devices are EOL already, but who cares, it's an offline lab. And it's 99% similar to an up to date IOS XE.
 When I got them the software was extremely outdated on the 3850, and the 2901 even booted into ROMMON. So I completely wiped them clean and installed new IOS, and IOS XE on the switch through TFTP. And let me just tell you... it was a pain in the ass to get the BIN files, since I can't just grab them from Cisco's website.
 
+I find this dumb. For something like the 2901, the license is the hardware, so why do you restrict the software?
+
+Here is a tip. Instead of searching for something like "Cisco 2901 Firmware Download", go to Cisco's own page for your device's firmware, copy the actual bin file name, and search that on Google instead. For example, `c2900-universalk9-mz.SPA.157-3.M8.bin`. You will find it.
+
+Actually, let me do you a favor, here are some links:
+
+- [Latest for the 3850](https://cdn.technet24.ir/Downloads/Cisco/IOS/)
+- [Latest for the 2901](https://vofr.net/things/sw/)
+
+And if those ever stop working, you will find them here: [server.mhd64.dev](https://server.mhd64.dev).
+
 {{< figure src="/img/i-made-a-lab-to-understand-how-networks-really-work/3850-opened.jpeg" caption="The 3850 with its lid off. That big silver box on the left is the power supply." alt="The Cisco 3850 switch opened up, showing its mainboard, heatsinks and power supply, with a screwdriver resting on it." width="60%" >}}
 
 # The Noise
