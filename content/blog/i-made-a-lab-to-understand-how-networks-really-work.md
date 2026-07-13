@@ -33,7 +33,7 @@ When I got them the software was extremely outdated on the 3850, and the 2901 ev
 
 # The Noise
 
-And oh man, is that thing loud. This is enterprise gear, it was built to live in a datacenter with its own air conditioning, not on a shelf in my room. The fans spin up like a jet taking off, and they never really calm back down.
+And oh man, is that thing loud. This is enterprise gear, it was built to live in a datacenter with its own air conditioning, not on a shelf in my room. On boot the fans spin up like a jet taking off. It does calm down after 3 or 4 minutes, once the boot is done and it settles into idle, still hearable, but not annoying. And honestly, server noise is like music to my ears.
 
 The clip below is just the 3850 and the 2901 booting. No Optiplex, no other fans, just the two Cisco boxes. Turn your volume down before you play it.
 
