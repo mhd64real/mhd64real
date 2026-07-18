@@ -19,7 +19,7 @@ disableKinds = ['taxonomy', 'term']
   tagline = 'Mohamed Elsayed, systems developer'
   defaultImage = '/img/cd.png'
   customCursor = true        # Plan 9 style arrow cursor
-  aboveNav = '﷽'             # centered above the nav on every page
+  aboveNav = '<span title="In the name of Allah, the Most Gracious, the Most Merciful">﷽</span>'  # centered above the nav; hover shows the meaning
 
   [params.profile]
     name = 'Mohamed Elsayed'
