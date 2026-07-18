@@ -40,7 +40,7 @@ Actually, let me do you a favor, here are some links:
 
 And if those ever stop working, you will find them here: [server.mhd64.dev](https://server.mhd64.dev).
 
-{{< figure src="/img/i-made-a-lab-to-understand-how-networks-really-work/3850-opened.jpeg" caption="The 3850 with its lid off. That big silver box on the left is the power supply." alt="The Cisco 3850 switch opened up, showing its mainboard, heatsinks and power supply, with a screwdriver resting on it." width="60%" >}}
+{{< figure src="/img/i-made-a-lab-to-understand-how-networks-really-work/3850-opened.jpeg" caption="The 3850 with its lid off." alt="The Cisco 3850 switch opened up, showing its mainboard, heatsinks and power supply, with a screwdriver resting on it." width="60%" >}}
 
 # The Noise
 

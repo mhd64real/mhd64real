@@ -3,3 +3,6 @@
 .hugo_build.lock
 .DS_Store
 .claude/
+
+# Unblurred draft media (ONT post): do NOT commit until reviewed/blurred.
+/static/img/i-replaced-my-isps-fiber-ont-with-an-sfp-stick/

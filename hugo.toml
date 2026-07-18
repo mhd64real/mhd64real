@@ -19,6 +19,7 @@ disableKinds = ['taxonomy', 'term']
   tagline = 'Mohamed Elsayed, systems developer'
   defaultImage = '/img/cd.png'
   customCursor = true        # Plan 9 style arrow cursor
+  aboveNav = '﷽'             # centered above the nav on every page
 
   [params.profile]
     name = 'Mohamed Elsayed'
